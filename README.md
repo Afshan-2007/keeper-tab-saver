@@ -45,14 +45,14 @@ Clone the repository:
 ```bash
 git clone https://github.com/Afshan-2007/keeper-tab-saver.git
 
-Install dependencies:
+#Install dependencies:
 
 npm install
 
-Run locally:
+#Run locally:
 
 npm run dev
-Future Improvements
+#Future Improvements
 Chrome extension support
 Dark mode
 AI-powered tab summaries
