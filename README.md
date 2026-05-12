@@ -1,16 +1,68 @@
-# React + Vite
+# KEEPER.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A productivity-focused tab manager that remembers **why** you opened a tab.
 
-Currently, two official plugins are available:
+Most people open 20+ tabs and forget their purpose.  
+Keeper solves that by letting users save:
+- the link
+- the reason/context
+- reminders
+- deadlines
+- productivity tracking
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Save tabs with context
+- Category filters
+- Search saved tabs
+- Real-time countdown timers
+- Browser notifications
+- Deadline mode
+- Productivity analytics
+- Pin important tabs
+- Mark tasks as done
+- Local storage persistence
+- Open saved links instantly
+- Auto website favicons
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- JavaScript
+- CSS
+- Vite
+
+---
+
+## Screenshots
+
+### Homepage
+
+![Homepage](./src/assets/hero.png)
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Afshan-2007/keeper-tab-saver.git
+
+Install dependencies:
+
+npm install
+
+Run locally:
+
+npm run dev
+Future Improvements
+Chrome extension support
+Dark mode
+AI-powered tab summaries
+Drag & drop organization
+Cloud sync
